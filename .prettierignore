@@ -1,0 +1,15 @@
+.next/
+pnpm-lock.yaml
+
+# Ignore everything by default
+*.*
+
+# Only format these file types
+!*.js
+!*.ts
+!*.jsx
+!*.tsx
+!*.json
+!*.yaml
+!*.yml
+!*.mjs
