@@ -1,6 +1,12 @@
 # Photography Portfolio Template
 
 A Squarespace-style photography portfolio website with Next.js and Tailwind CSS.
+<br/>
+<br/>
+<img src="https://github.com/user-attachments/assets/83ef510c-d5b7-4569-98cc-5f74b6def92a" alt="screenshot" height=400 />
+<br/>
+> Check out the full example site [here](https://photos.lukerob.me/)<br/>
+<br/>
 
 Features:
 
